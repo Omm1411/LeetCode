@@ -16,11 +16,11 @@ public:
             else post[i] = nums[i]+ post[i+1];
         }
         for(int i=0;i<n;i++)
-{
+        {
         long long left = (long long)i*nums[i] - (pre[i]-nums[i]);
         long long right = (post[i]-nums[i]) - (long long)(n-i-1)*nums[i]; 
         ans[i] = left + right;
-}
+        }
         return ans;
     }
 };
