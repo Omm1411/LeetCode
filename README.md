@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Omm1411/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/Omm1411/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0554-brick-wall](https://github.com/Omm1411/LeetCode/tree/master/0554-brick-wall) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Omm1411/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0554-brick-wall](https://github.com/Omm1411/LeetCode/tree/master/0554-brick-wall) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
