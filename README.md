@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Omm1411/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3355-zero-array-transformation-i](https://github.com/Omm1411/LeetCode/tree/master/3355-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Omm1411/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3355-zero-array-transformation-i](https://github.com/Omm1411/LeetCode/tree/master/3355-zero-array-transformation-i) |
 ## String
 |  |
 | ------- |
