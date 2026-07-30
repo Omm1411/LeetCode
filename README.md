@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Omm1411/LeetCode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Omm1411/LeetCode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Omm1411/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
