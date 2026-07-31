@@ -74,8 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Omm1411/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Omm1411/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Omm1411/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Omm1411/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
