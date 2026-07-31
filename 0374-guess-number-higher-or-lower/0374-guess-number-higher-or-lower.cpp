@@ -28,9 +28,10 @@ public:
             }
             else
             {
-                return mid;
+                ans=mid;
+                break;
             }
         }
-        return -1;
+        return ans;
     }
 };
