@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omm1411/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Omm1411/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1590-make-sum-divisible-by-p](https://github.com/Omm1411/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3355-zero-array-transformation-i](https://github.com/Omm1411/LeetCode/tree/master/3355-zero-array-transformation-i) |
 ## Prefix Sum
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omm1411/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Omm1411/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1590-make-sum-divisible-by-p](https://github.com/Omm1411/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3355-zero-array-transformation-i](https://github.com/Omm1411/LeetCode/tree/master/3355-zero-array-transformation-i) |
 ## String
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Omm1411/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Omm1411/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omm1411/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/Omm1411/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Omm1411/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
