@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Omm1411/LeetCode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Omm1411/LeetCode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Omm1411/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omm1411/LeetCode/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Omm1411/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Omm1411/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Omm1411/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omm1411/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Omm1411/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omm1411/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Omm1411/LeetCode/tree/master/0041-first-missing-positive) |
+| [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omm1411/LeetCode/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Omm1411/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Omm1411/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Omm1411/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
