@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/Omm1411/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Omm1411/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3355-zero-array-transformation-i](https://github.com/Omm1411/LeetCode/tree/master/3355-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Omm1411/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Omm1411/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
