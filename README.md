@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Omm1411/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Omm1411/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Omm1411/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Omm1411/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omm1411/LeetCode/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Omm1411/LeetCode/tree/master/0554-brick-wall) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Omm1411/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Omm1411/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Omm1411/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Omm1411/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Omm1411/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Omm1411/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Omm1411/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Omm1411/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Greedy
 |  |
@@ -129,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Omm1411/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Omm1411/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
