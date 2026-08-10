@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Omm1411/LeetCode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Omm1411/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Omm1411/LeetCode/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/Omm1411/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Omm1411/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Omm1411/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Omm1411/LeetCode/tree/master/0605-can-place-flowers) |
 ## Monotonic Stack
 |  |
 | ------- |
