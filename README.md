@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Omm1411/LeetCode/tree/master/1109-corporate-flight-bookings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omm1411/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Omm1411/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Omm1411/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omm1411/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/Omm1411/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omm1411/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Omm1411/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Omm1411/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Omm1411/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omm1411/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Interactive
 |  |
 | ------- |
