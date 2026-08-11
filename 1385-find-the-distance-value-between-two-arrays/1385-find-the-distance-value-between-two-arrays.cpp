@@ -9,9 +9,9 @@ public:
             bool fail = false;
             while (start <= end) {
                 int mid = start + (end - start) / 2;
-                if (arr2[mid] < arr1[i] - d) {
+                if (arr1[i] - arr2[mid] > d) {
                     start = mid + 1;
-                } else if (arr2[mid] > arr1[i] + d) {
+                } else if (arr2[mid] - arr1[i] > d) {
                     end = mid - 1;
                 } else {
                     fail = true;
