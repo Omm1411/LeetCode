@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Omm1411/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Omm1411/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Omm1411/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Omm1411/LeetCode/tree/master/0018-4sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Omm1411/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Omm1411/LeetCode/tree/master/0041-first-missing-positive) |
 | [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Omm1411/LeetCode/tree/master/0525-contiguous-array) |
