@@ -3,15 +3,15 @@ public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> ans;
         int n = intervals.size();
-        int newstart = newInterval[0];
-        int newend = newInterval[1];
         int i = 0;
-        while(i<n and intervals[i][1]<newstart)
+        int newstart = newInterval[0];
+        int newend = newInterval[1];      
+        while(i<n and newstart > intervals[i][1] )
         {
             ans.push_back(intervals[i]);
             i++;
-        }
-        while(i<n and intervals[i][0]<=newend)
+        }  
+        while(i<n and newend>=intervals[i][0])
         {
             newstart = min(newstart,intervals[i][0]);
             newend = max(newend,intervals[i][1]);
