@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Omm1411/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omm1411/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Omm1411/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/Omm1411/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omm1411/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Omm1411/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Omm1411/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Omm1411/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Omm1411/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Omm1411/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
 | ------- |
