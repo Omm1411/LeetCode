@@ -1,36 +1,55 @@
 class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
-        long long lo = 0, hi = 0;
-        for (int x : nums) {
-            lo = max(lo, (long long)x);
-            hi += x;
+
+        int low = 0;
+        int high = 0;
+
+        for(int i=0;i<nums.size();i++)
+        {
+            low = max(low, nums[i]);
+            high += nums[i];
         }
 
-        while (lo < hi) {
-            long long mid = lo + (hi - lo) / 2;
-            if (canSplit(nums, k, mid)) {
-                hi = mid;
-            } else {
-                lo = mid + 1;
+        while(low < high)
+        {
+            int mid = low + (high-low)/2;
+
+            if(possible(nums,k,mid))
+            {
+                high = mid;
+            }
+            else
+            {
+                low = mid+1;
             }
         }
-        return (int)lo;
+
+        return low;
     }
 
-private:
-    bool canSplit(vector<int>& nums, int k, long long maxSum) {
-        int pieces = 1;
-        long long curr = 0;
-        for (int x : nums) {
-            if (curr + x > maxSum) {
-                pieces++;
-                curr = x;
-                if (pieces > k) return false;
-            } else {
-                curr += x;
+
+    bool possible(vector<int>& nums,int k,int mid)
+    {
+        int curr = 0;
+        int piece = 1;
+
+        for(int i=0;i<nums.size();i++)
+        {
+            if(curr + nums[i] > mid)
+            {
+                piece++;
+                curr = nums[i];
+
+                if(piece > k)
+                    return false;
+            }
+            else
+            {
+                curr += nums[i];
             }
         }
+
         return true;
     }
 };
