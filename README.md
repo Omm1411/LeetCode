@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Omm1411/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Omm1411/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
