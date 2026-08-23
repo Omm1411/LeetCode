@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Omm1411/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0771-jewels-and-stones](https://github.com/Omm1411/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Omm1411/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/Omm1411/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Omm1411/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Omm1411/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Design
