@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Omm1411/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Omm1411/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Omm1411/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Omm1411/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Omm1411/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/Omm1411/LeetCode/tree/master/1094-car-pooling) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Omm1411/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Omm1411/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Omm1411/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Omm1411/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
