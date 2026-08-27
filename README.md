@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Omm1411/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Omm1411/LeetCode/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0771-jewels-and-stones](https://github.com/Omm1411/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Omm1411/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Omm1411/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omm1411/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Omm1411/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Omm1411/LeetCode/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Omm1411/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
