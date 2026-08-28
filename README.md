@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0771-jewels-and-stones](https://github.com/Omm1411/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Omm1411/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omm1411/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Omm1411/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Omm1411/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Trie
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Omm1411/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Omm1411/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omm1411/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Omm1411/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Omm1411/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Omm1411/LeetCode/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omm1411/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -256,4 +259,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Omm1411/LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omm1411/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
