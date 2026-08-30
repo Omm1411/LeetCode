@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Omm1411/LeetCode/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/Omm1411/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/Omm1411/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Omm1411/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Omm1411/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Omm1411/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Omm1411/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Omm1411/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Omm1411/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Omm1411/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Omm1411/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Omm1411/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Omm1411/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Omm1411/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Omm1411/LeetCode/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
