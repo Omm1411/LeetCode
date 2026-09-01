@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Omm1411/LeetCode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Omm1411/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Omm1411/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Omm1411/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Omm1411/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Omm1411/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omm1411/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Omm1411/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omm1411/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/Omm1411/LeetCode/tree/master/0367-valid-perfect-square) |
