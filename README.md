@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3355-zero-array-transformation-i](https://github.com/Omm1411/LeetCode/tree/master/3355-zero-array-transformation-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omm1411/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Omm1411/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Omm1411/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Omm1411/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Omm1411/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
