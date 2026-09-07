@@ -4,19 +4,17 @@ public:
         long exp = n;
         if(n<0)
         {
-            x = 1/x;
             exp = -exp;
+            x = 1/x;
         }
-        return power(x,exp,1);
+        return power(x,exp);
+        
     }
-    double power(double x, long n,double ans) 
+    double power(double x,int n)
     {
-        if(n==0)return ans;
-        if(n%2!=0)
-        {
-            ans*=x;
-        }
-        return power(x*x,n/2,ans);
+        if(n==0)return 1;
+        double half = power(x,n/2);
+        if(n%2==0)return half*half;
+        return x*half*half;
     }
-
 };
