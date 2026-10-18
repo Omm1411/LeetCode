@@ -33,7 +33,7 @@ public:
             ListNode* temp = head->next;
             ListNode* temp2 = rev->next;
             head->next = rev;
-            if (n % 2 == 0 && i == n / 2 - 1)
+            if (n%2 == 0 && i == n/2 - 1)
                 rev->next = nullptr;
             else
                 rev->next = temp;
