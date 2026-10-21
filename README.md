@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Omm1411/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Omm1411/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/Omm1411/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/Omm1411/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Omm1411/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Omm1411/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Omm1411/LeetCode/tree/master/0877-stone-game) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Omm1411/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Omm1411/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Omm1411/LeetCode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Omm1411/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Omm1411/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Omm1411/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Omm1411/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Omm1411/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Omm1411/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Omm1411/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Omm1411/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Omm1411/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
