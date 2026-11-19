@@ -3,7 +3,7 @@ public:
     int n,m;
     void dfs(vector<vector<int>> &image,int row,int col,int orignal,int color)
     {
-        if(row<0 or row>=n or col<0 or col>=n or image[row][col]!=orignal)
+        if(row<0 or row>=n or col<0 or col>=m or image[row][col]!=orignal)
         return;
         image[row][col]=color;
         dfs(image,row-1,col,orignal,color);
