@@ -357,9 +357,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Omm1411/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Omm1411/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Omm1411/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Omm1411/LeetCode/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Omm1411/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Omm1411/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
