@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Omm1411/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/Omm1411/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Omm1411/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Omm1411/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3355-zero-array-transformation-i](https://github.com/Omm1411/LeetCode/tree/master/3355-zero-array-transformation-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omm1411/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Omm1411/LeetCode/tree/master/0877-stone-game) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Omm1411/LeetCode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Omm1411/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Omm1411/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Omm1411/LeetCode/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Omm1411/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Omm1411/LeetCode/tree/master/3871-count-commas-in-range-ii) |
